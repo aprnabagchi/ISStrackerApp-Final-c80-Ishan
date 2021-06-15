@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "c80final_isstrackerapp",
+    "slug": "snack-9e18957f-3072-46bd-a2ee-68b70fe6426a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Ishan-v3"
+  }
+}
